@@ -1,0 +1,3 @@
+pokud chces zmenit javascript IP adresu od Beefu tak stahni HTML z tvyho githubu (windows payload BadUsb (tak nejak)) a otevri stahle HTML,
+pozmen IP adresu k tve nvoe adrese a uploadni na GitHub s jmenem napr te nove IP, pote modifikuj "BeefHook.ino" 
+nekde u curl.exe, zmen URL na to nove URL HTML z githubu...
